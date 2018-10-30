@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 def words():
             s = input() 
             first_word = s[:s.find(' ')] 
